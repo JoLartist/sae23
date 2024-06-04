@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <!-- Basic -->
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <!-- Mobile Metas -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+  <!-- Site Metas -->
+  <meta name="keywords" content="" />
+  <meta name="description" content="" />
+  <meta name="author" content="" />
+
+  <title>TouchRugby</title>
+
+
+  <!-- bootstrap core css -->
+  <link rel="stylesheet" type="text/css" href="/static/css/bootstrap.css" />
+
+  <!-- fonts style -->
+  <link href="/static/css/fonts2.css" rel="stylesheet">
+
+  <!-- font awesome style -->
+  <link href="/static/css/font-awesome.min.css" rel="stylesheet" />
+  <!-- nice select -->
+  <link rel="stylesheet" href="/static/css/fonts1.css" integrity="sha256-mLBIhmBvigTFWPSCtvdu6a76T+3Xyt+K571hupeFLg4=" crossorigin="anonymous" />
+
+  <!-- Custom styles for this template -->
+  <link href="/static/css/style.css" rel="stylesheet" />
+  <!-- responsive style -->
+  <link href="/static/css/responsive.css" rel="stylesheet" />
+
+</head>
+
+<body class="sub_page">
+  <style>
+    .job_section {
+        padding: 20px;
+        background-color: #08135c;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .job_section ul {
+        list-style-type: none;
+        padding: 0;
+    }
+
+    .job_section li {
+        display: flex;
+        align-items: center;
+        margin: 10px 0;
+        padding: 10px;
+        background-color: #08135c;
+        border-radius: 5px;
+        box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    }
+
+    .job_section li img {
+        margin-right: 10px;
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+    }
+
+    .job_section li span {
+        font-size: 16px;
+        font-weight: 600;
+        color: #ffffff;
+    }
+</style>
+
+  <div class="hero_area">
+    <!-- header section strats -->
+    <header class="header_section">
+      <div class="container-fluid">
+        <nav class="navbar navbar-expand-lg custom_nav-container ">
+          <a class="navbar-brand" href="index">
+            <span>
+              TouchRugby
+            </span>
+          </a>
+
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class=""> </span>
+          </button>
+
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav  ml-auto">
+              <li class="nav-item active">
+                <a class="nav-link" href="index">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="equipe"> Equipes</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="joueur">Joueurs</a>
+                <div class="dropdown-content">
+                    <a href="/get_joueur">Liste des joueurs</a>
+                    <div class="dropdown-submenu">
+                      <!-- Menu déroulant pour choisir le poste -->
+                      <select id="posteDropdown" onchange="window.location.href=this.value;">
+                          <option value="#">Liste des joueurs par poste</option>
+                          % for postes in poste : 
+                          <option value="/joueur_par_poste?poste=${postes[0]}">${postes[0]}</option>
+                        %endfor
+                          <!-- Ajoutez d'autres options si nécessaire -->
+                      </select>
+                  </div>
+                    <a href="/joueur_par_age">Liste des joueurs par âge</a>
+                    <form action="/joueur_par_nom" method="get">
+                      <label for="nom">Nom du joueur :</label>
+                      <input type="text" id="nom" name="nom" required>
+                      <button type="submit">Chercher</button>
+                  </form>
+                </div>
+            </li>
+              <li class="nav-item">
+                <a class="nav-link" href="matchs">Matchs</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">
+                  <i class="fa fa-user" aria-hidden="true"></i>
+                  <span>
+                    Login
+                  </span>
+                </a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">
+                  <i class="fa fa-user" aria-hidden="true"></i>
+                  <span>
+                    Sign Up
+                  </span>
+                </a>
+              </li>
+              <form class="form-inline">
+                <button class="btn   nav_search-btn" type="submit">
+                  <i class="fa fa-search" aria-hidden="true"></i>
+                </button>
+              </form>
+            </ul>
+          </div>
+        </nav>
+      </div>
+    </header>
+    <!-- end header section -->
+    <section class="job_section layout_padding">
+      <ul>
+          % for joueur in joueurs:
+              <li class="job_section">
+                  <img src="/static/images/logo_${joueur[4]}.png" alt="">
+                  <span>${joueur[1]} - ${joueur[2]} - ${joueur[3]}</span>
+              </li>
+          % endfor
+      </ul>
+  </section>
+        
+  
+  <!-- info section -->
+  <section class="info_section ">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-2 info_links">
+          <img src="images/top14.jpg"/>
+        </div>
+        <div class="col-md-3">
+        </div>
+      </div>
+        <div class="col-md-3">
+          
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- end info_section -->
+
+
+  <!-- footer section -->
+  <footer class="footer_section">
+    <div class="container">
+      <p>
+        &copy; <span id="displayYear"></span> All Rights Reserved By
+      </p>
+    </div>
+  </footer>
+  <!-- footer section -->
+
+  <!-- jQery -->
+  <script src="/static/js/jquery-3.4.1.min.js"></script>
+  <!-- bootstrap js -->
+  <script src="/static/js/bootstrap.js"></script>
+  <!-- nice select -->
+  <script src="/static/js/internet.js" integrity="sha256-Zr3vByTlMGQhvMfgkQ5BtWRSKBGa2QlspKYJnkjZTmo=" crossorigin="anonymous"></script>
+  <!-- custom js -->
+  <script src="/static/js/custom.js"></script>
+  <script src="/static/js/bouton.js"></script>
+
+</body>
+
+</html>

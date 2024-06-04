@@ -1,0 +1,33 @@
+    .team-info {
+        display: flex;
+        align-items: center;
+    }
+
+    .team-info img {
+        width: 50px;
+        height: 50px;
+        margin-right: 10px;
+    }
+
+    .scoreboard {
+        font-size: 2em;
+    }
+
+    .main {
+        display: flex;
+        justify-content: space-around;
+        padding: 20px;
+    }
+
+    .header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        background-color: #333;
+        color: white;
+        padding: 10px;
+    }
+
+    .events-log, .stats {
+        width: 20%;
+    }

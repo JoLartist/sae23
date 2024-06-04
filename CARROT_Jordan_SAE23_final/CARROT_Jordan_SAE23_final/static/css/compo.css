@@ -1,0 +1,43 @@
+.field {
+  display: flex;
+  justify-content: space-between;
+}
+
+.team-composition {
+  width: 40%;
+  margin: 10px; /* Ajoute une marge externe pour séparer les sections */
+}
+
+#team-composition-toulouse {
+  text-align: left;
+  height: 545px;
+}
+
+#team-composition-clermont {
+  text-align: right;
+  height: 545px;
+}
+
+/* Optionnel: pour rendre les compositions plus distinctes */
+.team-composition h3 {
+  margin-bottom: 10px;
+  text-decoration: underline;
+  text-align: center;
+}
+
+.team-composition ul {
+  list-style-type: none;
+  padding: 0;
+  text-align: center;
+}
+
+.team-composition li {
+  margin-bottom: 5px;
+}
+
+/* Ajoute des bordures ou autres styles selon les besoins */
+#team-composition-toulouse, #team-composition-clermont {
+  border: 1px solid white;
+  padding: 10px;
+  border-radius: 5px;
+}

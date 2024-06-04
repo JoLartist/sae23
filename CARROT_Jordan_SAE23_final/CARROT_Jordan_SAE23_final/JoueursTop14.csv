@@ -1,0 +1,596 @@
+Equipe;Nom;Poste;Type poste;Date de naissance;Taille (en cm);Poids (en kg);ID_equipe;Equipe;Compo
+Agen;Anton PEIKRISHVILI;Pilier;Avant;18/09/1987;183;122;1;Agen;FALSE
+Agen;Dave RYAN;Pilier;Avant;21/04/1986;183;116;1;Bayonne;FALSE
+Agen;Giorgi TETRASHVILI;Pilier;Avant;31/08/1993;177;112;1;Bordeaux;FALSE
+Agen;Kamaliele TUFELE;Pilier;Avant;11/10/1995;182;123;1;Brive;FALSE
+Agen;Malino VANAÏ;Pilier;Avant;04/05/1993;183;119;1;Castres;FALSE
+Agen;Morgan PHÉLIPPONNEAU;Pilier;Avant;05/09/1989;185;106;1;Clermont;FALSE
+Agen;Walter DESMAISON;Pilier;Avant;18/10/1991;188;119;1;La Rochelle;FALSE
+Agen;Clément MARTINEZ;Talonneur;Avant;14/03/1996;181;105;1;Lyon;FALSE
+Agen;Marc BARTHOMEUF;Talonneur;Avant;19/07/1991;174;100;1;Montpellier;FALSE
+Agen;Paula NGAUAMO;Talonneur;Avant;19/02/1990;182;117;1;Paris;FALSE
+Agen;Adrian MOTOC;2ème ligne;2ème ligne;11/07/1996;197;108;1;Pau;FALSE
+Agen;Andrés ZAFRA;2ème ligne;2ème ligne;26/03/1996;197;116;1;Racing92;FALSE
+Agen;Mickaël DE MARCO;2ème ligne;2ème ligne;22/04/1989;195;134;1;Toulon;FALSE
+Agen;Pierce PHILLIPS;2ème ligne;2ème ligne;06/10/1992;203;119;1;Toulouse;FALSE
+Agen;Tom MURDAY;2ème ligne;2ème ligne;27/04/1989;200;114;1;;FALSE
+Agen;Dylan HAYES;3ème ligne;3ème ligne;11/02/1994;194;114;1;;FALSE
+Agen;Laurence PEARCE;3ème ligne;3ème ligne;03/12/1990;192;120;1;;FALSE
+Agen;Romain BRIATTE;3ème ligne;3ème ligne;18/02/1993;194;105;1;;FALSE
+Agen;Vincent FARRÉ;3ème ligne;3ème ligne;06/06/1990;193;103;1;;FALSE
+Agen;Hugo VERDU;Mêlée;Demi;24/10/1996;176;82;1;;FALSE
+Agen;Paul ABADIE;Mêlée;Demi;28/07/1994;176;88;1;;FALSE
+Agen;Xavier CHAUVEAU;Mêlée;Demi;14/10/1992;180;84;1;;FALSE
+Agen;Raphaël LAGARDE;Ouverture;Demi;30/10/1988;182;92;1;;FALSE
+Agen;Alban CONDUCHÉ;Centre;Trois-Quarts;29/10/1996;190;102;1;;FALSE
+Agen;Johann SADIE;Centre;Trois-Quarts;23/01/1989;188;96;1;;FALSE
+Agen;Jordan PULETUA;Centre;Trois-Quarts;28/02/1990;193;105;1;;FALSE
+Agen;Sam VAKA;Centre;Trois-Quarts;26/10/1992;187;98;1;;FALSE
+Agen;Benito MASILEVU;Ailier;Trois-Quarts;07/10/1989;178;83;1;;FALSE
+Agen;Julien JANÉ;Ailier;Trois-Quarts;12/09/1989;186;100;1;;FALSE
+Agen;Timilai ROKODURU;Ailier;Trois-Quarts;21/01/1993;191;113;1;;FALSE
+Agen;Valentin SAURS;Ailier;Trois-Quarts;12/02/1995;182;82;1;;FALSE
+Agen;JJ TAULAGI;Arrière;Arrière;18/06/1993;180;90;1;;FALSE
+Agen;Loris TOLOT;Arrière;Arrière;03/03/1993;185;90;1;;FALSE
+Agen;Mathieu LAMOULIE;Arrière;Arrière;07/08/1990;184;93;1;;FALSE
+Bayonne;Aretz IGUINIZ;Pilier;Avant;03/06/1983;188;114;1;;FALSE
+Bayonne;Census JOHNSTON;Pilier;Avant;06/05/1981;189;130;2;;FALSE
+Bayonne;Jean-Baptiste DE CLERCQ;Pilier;Avant;23/02/1994;183;115;2;;FALSE
+Bayonne;Jon ZABALA;Pilier;Avant;26/11/1996;192;128;2;;FALSE
+Bayonne;Luc MOUSSET;Pilier;Avant;03/04/1994;180;115;2;;FALSE
+Bayonne;Swan CORMENIER;Pilier;Avant;10/01/1996;178;117;2;;FALSE
+Bayonne;TomaAkino TAUFA;Pilier;Avant;09/03/1995;180;125;2;;FALSE
+Bayonne;Ugo BONIFACE;Pilier;Avant;21/07/1998;190;125;2;;FALSE
+Bayonne;Viliamu AFATIA;Pilier;Avant;24/05/1990;189;124;2;;FALSE
+Bayonne;Maxime DELONCA;Talonneur;Avant;29/04/1988;180;107;2;;FALSE
+Bayonne;Maxime LAMOTHE;Talonneur;Avant;03/10/1998;184;109;2;;FALSE
+Bayonne;Torsten VAN JAARSVELD;Talonneur;Avant;30/06/1987;175;106;2;;FALSE
+Bayonne;Adam JAULHAC;2ème ligne;2ème ligne;31/01/1988;198;125;2;;FALSE
+Bayonne;Bastien BERGOUNIOUX;2ème ligne;2ème ligne;18/06/1996;202;100;2;;FALSE
+Bayonne;Edwin MAKA;2ème ligne;2ème ligne;25/01/1993;196;140;2;;FALSE
+Bayonne;Evrard Dion OULAI;2ème ligne;2ème ligne;22/06/1993;198;125;2;;FALSE
+Bayonne;Guillaume DUCAT;2ème ligne;2ème ligne;20/05/1996;205;115;2;;FALSE
+Bayonne;Mariano GALARZA;2ème ligne;2ème ligne;11/12/1986;202;114;2;;FALSE
+Bayonne;Pieter Jan VAN LILL;2ème ligne;2ème ligne;04/12/1983;193;120;2;;FALSE
+Bayonne;André GORIN;3ème ligne;3ème ligne;30/11/1987;192;111;2;;FALSE
+Bayonne;Antoine BATTUT;3ème ligne;3ème ligne;01/01/1984;192;104;2;;FALSE
+Bayonne;Armandt KOSTER;3ème ligne;3ème ligne;20/01/1990;192;114;2;;FALSE
+Bayonne;Arnaud DUPUTS;3ème ligne;3ème ligne;26/07/1995;188;98;2;;FALSE
+Bayonne;Baptiste HÉGUY;3ème ligne;3ème ligne;11/05/1998;196;97;2;;FALSE
+Bayonne;Benjamin COLLET;3ème ligne;3ème ligne;11/04/1989;184;103;2;;FALSE
+Bayonne;Filimo TAOFIFENUA;3ème ligne;3ème ligne;15/10/1993;188;100;2;;FALSE
+Bayonne;Jean MONRIBOT;3ème ligne;3ème ligne;11/10/1987;183;99;2;;FALSE
+Bayonne;Mat LUAMANU;3ème ligne;3ème ligne;04/03/1988;193;127;2;;FALSE
+Bayonne;Tom DARLET;3ème ligne;3ème ligne;06/08/1996;188;104;2;;FALSE
+Bayonne;Emmanuel SAUBUSSE;Mêlée;Demi;23/11/1989;181;84;2;;FALSE
+Bayonne;Guillaume ROUET;Mêlée;Demi;13/08/1988;170;75;2;;FALSE
+Bayonne;Michael RURU;Mêlée;Demi;03/12/1990;182;93;2;;FALSE
+Bayonne;Brandon FAJARDO;Ouverture;Demi;25/06/1994;181;77;2;;FALSE
+Bayonne;Manuel ORDAS;Ouverture;Demi;21/02/1998;186;83;2;;FALSE
+Bayonne;Alofa ALOFA;Centre;Trois-Quarts;12/03/1991;185;95;2;;FALSE
+Bayonne;Callum WILSON;Centre;Trois-Quarts;28/10/1990;182;95;2;;FALSE
+Bayonne;Maile MAMAO;Centre;Trois-Quarts;07/01/1996;187;117;2;;FALSE
+Bayonne;Malietoa HINGANO;Centre;Trois-Quarts;27/01/1992;180;95;2;;FALSE
+Bayonne;Peyo MUSCARDITZ;Centre;Trois-Quarts;02/01/1996;174;88;2;;FALSE
+Bayonne;Romain BARTHÉLÉMY;Centre;Trois-Quarts;25/01/1990;186;97;2;;FALSE
+Bayonne;Arthur DUHAU;Ailier;Trois-Quarts;09/08/1997;181;86;2;;FALSE
+Bayonne;Djibril CAMARA;Ailier;Trois-Quarts;22/06/1989;183;90;2;;FALSE
+Bayonne;Sean ROBINSON;Ailier;Trois-Quarts;02/11/1993;181;90;2;;FALSE
+Bayonne;Aymeric LUC;Arrière;Arrière;14/10/1997;180;76;2;;FALSE
+Bayonne;Johannes Petrus GRAAFF;Arrière;Arrière;10/09/1989;179;77;2;;FALSE
+Bayonne;Julien TISSERON;Arrière;Arrière;12/08/1995;182;82;2;;FALSE
+Bordeaux;Jefferson POIROT;Pilier;Avant;01/11/1992;181;117;3;;FALSE
+Bordeaux;Lasha TABIDZE;Pilier;Avant;04/07/1997;185;117;3;;FALSE
+Bordeaux;Laurent DELBOULBÈS;Pilier;Avant;17/11/1986;181;106;3;;FALSE
+Bordeaux;Lekso KAULASHVILI;Pilier;Avant;27/08/1992;187;120;3;;FALSE
+Bordeaux;Peni RAVAI;Pilier;Avant;16/06/1990;185;119;3;;FALSE
+Bordeaux;Thierry PAÏVA;Pilier;Avant;19/11/1995;184;125;3;;FALSE
+Bordeaux;Vadim COBILAS;Pilier;Avant;30/07/1983;180;118;3;;FALSE
+Bordeaux;Adrien PÉLISSIÉ;Talonneur;Avant;07/08/1990;181;110;3;;FALSE
+Bordeaux;Clément MAYNADIER;Talonneur;Avant;11/10/1988;187;100;3;;FALSE
+Bordeaux;Alexandre FLANQUART;2ème ligne;2ème ligne;09/10/1989;204;120;3;;FALSE
+Bordeaux;Cyril CAZEAUX;2ème ligne;2ème ligne;10/02/1995;198;113;3;;FALSE
+Bordeaux;Jandré MARAIS;2ème ligne;2ème ligne;14/06/1989;198;118;3;;FALSE
+Bordeaux;Kane DOUGLAS;2ème ligne;2ème ligne;01/06/1989;202;123;3;;FALSE
+Bordeaux;Masalosalo TUTAIA;2ème ligne;2ème ligne;05/06/1984;204;125;3;;FALSE
+Bordeaux;Afa AMOSA;3ème ligne;3ème ligne;11/10/1990;187;112;3;;FALSE
+Bordeaux;Alexandre ROUMAT;3ème ligne;3ème ligne;27/06/1997;198;104;3;;FALSE
+Bordeaux;Béka GORGADZE;3ème ligne;3ème ligne;08/02/1996;189;105;3;;FALSE
+Bordeaux;Cameron WOKI;3ème ligne;3ème ligne;07/11/1998;196;103;3;;FALSE
+Bordeaux;Mahamadou DIABY;3ème ligne;3ème ligne;15/08/1990;188;105;3;;FALSE
+Bordeaux;Marco TAULEIGNE;3ème ligne;3ème ligne;30/08/1993;191;115;3;;FALSE
+Bordeaux;Scott HIGGINBOTHAM;3ème ligne;3ème ligne;05/09/1986;195;110;3;;FALSE
+Bordeaux;Maxime LUCU;Mêlée;Demi;12/01/1993;177;79;3;;FALSE
+Bordeaux;Yann LESGOURGUES;Mêlée;Demi;17/01/1991;174;71;3;;FALSE
+Bordeaux;Ben BOTICA;Ouverture;Demi;07/10/1989;178;93;3;;FALSE
+Bordeaux;Lucas MÉRET;Ouverture;Demi;30/01/1995;178;85;3;;FALSE
+Bordeaux;Matthieu JALIBERT;Ouverture;Demi;06/11/1998;180;79;3;;FALSE
+Bordeaux;Jean-Baptiste DUBIÉ;Centre;Trois-Quarts;16/07/1989;181;85;3;;FALSE
+Bordeaux;Rémi LAMERAT;Centre;Trois-Quarts;14/01/1990;184;105;3;;FALSE
+Bordeaux;Semi RADRADRA;Centre;Trois-Quarts;13/06/1992;188;102;3;;FALSE
+Bordeaux;Seta TAMANIVALU;Centre;Trois-Quarts;23/07/1992;189;110;3;;FALSE
+Bordeaux;Ulupano SEUTENI;Centre;Trois-Quarts;09/12/1993;185;95;3;;FALSE
+Bordeaux;Blair CONNOR;Ailier;Trois-Quarts;29/09/1988;183;82;3;;FALSE
+Bordeaux;Nicolas PLAZY;Ailier;Trois-Quarts;17/05/1994;188;85;3;;FALSE
+Bordeaux;Santiago CORDERO;Ailier;Trois-Quarts;06/12/1993;177;83;3;;FALSE
+Bordeaux;Geoffrey CROS;Arrière;Arrière;08/03/1997;185;85;3;;FALSE
+Bordeaux;Nans DUCUING;Arrière;Arrière;06/11/1991;181;90;3;;FALSE
+Bordeaux;Romain BUROS;Arrière;Arrière;31/07/1997;187;91;3;;FALSE
+Brive;Cody THOMAS;Pilier;Avant;01/03/1996;186;124;4;;FALSE
+Brive;Hayden THOMPSON-STRINGER;Pilier;Avant;25/12/1994;190;119;4;;FALSE
+Brive;James JOHNSTON;Pilier;Avant;06/03/1986;191;129;4;;FALSE
+Brive;Karlen ASIESHVILI;Pilier;Avant;21/04/1987;180;118;4;;FALSE
+Brive;Mesake DOGE;Pilier;Avant;01/04/1993;178;122;4;;FALSE
+Brive;Simon-Pierre CHAUVAC;Pilier;Avant;23/03/1998;189;116;4;;FALSE
+Brive;Soso BEKOSHVILI;Pilier;Avant;03/11/1993;180;116;4;;FALSE
+Brive;François DA ROS;Talonneur;Avant;29/09/1983;179;104;4;;FALSE
+Brive;Peniami Nasali NARISIA;Talonneur;Avant;10/06/1997;187;104;4;;FALSE
+Brive;Thomas ACQUIER;Talonneur;Avant;21/11/1989;181;112;4;;FALSE
+Brive;Jan UYS;2ème ligne;2ème ligne;03/01/1994;195;120;4;;FALSE
+Brive;Joe SNYMAN;2ème ligne;2ème ligne;09/07/1986;200;112;4;;FALSE
+Brive;Mitch LEES;2ème ligne;2ème ligne;12/10/1988;196;120;4;;FALSE
+Brive;Peet MARAIS;2ème ligne;2ème ligne;31/10/1990;199;120;4;;FALSE
+Brive;Richard FOURCADE;2ème ligne;2ème ligne;04/04/1993;200;110;4;;FALSE
+Brive;Victor LEBAS;2ème ligne;2ème ligne;09/06/1993;193;108;4;;FALSE
+Brive;Esteban ABADIE;3ème ligne;3ème ligne;01/12/1997;188;95;4;;FALSE
+Brive;Irakli TSKHADADZE;3ème ligne;3ème ligne;01/08/1996;191;104;4;;FALSE
+Brive;Kitione KAMIKAMICA;3ème ligne;3ème ligne;27/04/1996;188;105;4;;FALSE
+Brive;Matthieu VOISIN;3ème ligne;3ème ligne;16/05/1996;193;104;4;;FALSE
+Brive;Otar GIORGADZE;3ème ligne;3ème ligne;02/03/1996;193;108;4;;FALSE
+Brive;Saïd HIRÈCHE;3ème ligne;3ème ligne;27/05/1985;183;102;4;;FALSE
+Brive;Sootala FAASOO;3ème ligne;3ème ligne;02/10/1994;194;127;4;;FALSE
+Brive;Steevy CERQUEIRA;3ème ligne;3ème ligne;09/08/1993;206;114;4;;FALSE
+Brive;David DELARUE;Mêlée;Demi;27/10/1996;190;85;4;;FALSE
+Brive;Julien BLANC;Mêlée;Demi;04/10/1992;175;81;4;;FALSE
+Brive;Quentin DELORD;Mêlée;Demi;10/02/1999;171;74;4;;FALSE
+Brive;Vasil LOBZHANIDZE;Mêlée;Demi;14/10/1996;175;75;4;;FALSE
+Brive;Enzo HERVÉ;Ouverture;Demi;13/10/1998;177;89;4;;FALSE
+Brive;Thomas LARANJEIRA;Ouverture;Demi;05/05/1992;186;90;4;;FALSE
+Brive;Alban RAMETTE;Centre;Trois-Quarts;07/10/1998;188;91;4;;FALSE
+Brive;Alex DUNBAR;Centre;Trois-Quarts;23/04/1990;191;103;4;;FALSE
+Brive;Arnaud MIGNARDI;Centre;Trois-Quarts;01/11/1986;180;90;4;;FALSE
+Brive;Guillaume GALLETIER;Centre;Trois-Quarts;07/03/1997;178;98;4;;FALSE
+Brive;Nico LEE;Centre;Trois-Quarts;13/03/1994;180;89;4;;FALSE
+Brive;Seva GALALA;Centre;Trois-Quarts;29/01/1993;188;105;4;;FALSE
+Brive;Stuart OLDING;Centre;Trois-Quarts;11/03/1993;180;87;4;;FALSE
+Brive;Axel MULLER;Ailier;Trois-Quarts;25/11/1993;186;94;4;;FALSE
+Brive;Franck ROMANET;Ailier;Trois-Quarts;02/05/1986;178;89;4;;FALSE
+Brive;Guillaume NAMY;Ailier;Trois-Quarts;03/04/1989;182;83;4;;FALSE
+Brive;Rory SCHOLES;Ailier;Trois-Quarts;23/04/1993;186;95;4;;FALSE
+Brive;Setareki BITUNIYATA;Ailier;Trois-Quarts;12/08/1995;190;89;4;;FALSE
+Brive;Joris JURAND;Arrière;Arrière;11/11/1995;188;106;4;;FALSE
+Brive;Rico BULIRUARUA;Arrière;Arrière;23/01/1997;186;106;4;;FALSE
+Castres;Antoine TICHIT;Pilier;Avant;13/06/1989;182;112;5;;FALSE
+Castres;Daniel KOTZE;Pilier;Avant;28/03/1987;187;120;5;;FALSE
+Castres;Karena WIHONGI;Pilier;Avant;29/09/1979;186;130;5;;FALSE
+Castres;Marc CLERC;Pilier;Avant;09/06/1987;181;120;5;;FALSE
+Castres;Matt TIERNEY;Pilier;Avant;04/07/1996;191;132;5;;FALSE
+Castres;Paea FAANUNU;Pilier;Avant;04/11/1988;191;125;5;;FALSE
+Castres;Tapu FALATEA;Pilier;Avant;12/12/1988;187;137;5;;FALSE
+Castres;Tudor STROË;Pilier;Avant;06/09/1993;184;112;5;;FALSE
+Castres;Wayan DE BENEDITTIS;Pilier;Avant;10/03/1999;185;107;5;;FALSE
+Castres;Wilfrid HOUNKPATIN;Pilier;Avant;29/07/1991;192;132;5;;FALSE
+Castres;Jody JENNEKER;Talonneur;Avant;10/04/1984;185;106;5;;FALSE
+Castres;Kévin FIRMIN;Talonneur;Avant;20/04/1992;183;105;5;;FALSE
+Castres;Marc-Antoine RALLIER;Talonneur;Avant;02/12/1988;182;107;5;;FALSE
+Castres;Paul SAUZARET;Talonneur;Avant;04/03/1997;184;107;5;;FALSE
+Castres;Christophe SAMSON;2ème ligne;2ème ligne;01/03/1984;198;107;5;;FALSE
+Castres;Hans NKINSI;2ème ligne;2ème ligne;21/09/1992;195;115;5;;FALSE
+Castres;Loïc JACQUET;2ème ligne;2ème ligne;31/03/1985;198;117;5;;FALSE
+Castres;Rodrigo CAPO ORTEGA;2ème ligne;2ème ligne;08/12/1980;195;110;5;;FALSE
+Castres;Victor MOREAUX;2ème ligne;2ème ligne;19/09/1993;200;123;5;;FALSE
+Castres;Alex TULOU;3ème ligne;3ème ligne;21/03/1987;192;114;5;;FALSE
+Castres;Anthony JELONCH;3ème ligne;3ème ligne;28/07/1996;193;105;5;;FALSE
+Castres;Baptiste DELAPORTE;3ème ligne;3ème ligne;27/03/1997;190;112;5;;FALSE
+Castres;Camille GÉRONDEAU;3ème ligne;3ème ligne;12/03/1988;194;113;5;;FALSE
+Castres;Dorian CLERC;3ème ligne;3ème ligne;07/07/1998;194;110;5;;FALSE
+Castres;Kévin GIMENO;3ème ligne;3ème ligne;11/09/1991;195;106;5;;FALSE
+Castres;Maama VAIPULU;3ème ligne;3ème ligne;21/07/1989;190;112;5;;FALSE
+Castres;Mathieu BABILLOT;3ème ligne;3ème ligne;09/09/1993;190;111;5;;FALSE
+Castres;Ludovic RADOSAVLJEVIC;Mêlée;Demi;17/08/1989;180;95;5;;FALSE
+Castres;Rory KOCKOTT;Mêlée;Demi;25/06/1986;180;92;5;;FALSE
+Castres;Benjamin URDAPILLETA;Ouverture;Demi;11/03/1986;178;86;5;;FALSE
+Castres;Thomas FORTUNEL;Ouverture;Demi;07/06/1995;177;76;5;;FALSE
+Castres;Florian VIALELLE;Centre;Trois-Quarts;05/10/1993;185;88;5;;FALSE
+Castres;Robert EBERSOHN;Centre;Trois-Quarts;23/02/1989;180;89;5;;FALSE
+Castres;Thomas COMBEZOU;Centre;Trois-Quarts;26/01/1987;184;94;5;;FALSE
+Castres;Yann DAVID;Centre;Trois-Quarts;15/04/1988;185;102;5;;FALSE
+Castres;Armand BATLLE;Ailier;Trois-Quarts;12/04/1987;188;92;5;;FALSE
+Castres;Benjamin LAPEYRE;Ailier;Trois-Quarts;24/09/1986;181;87;5;;FALSE
+Castres;Filipo NAKOSI;Ailier;Trois-Quarts;08/04/1992;182;98;5;;FALSE
+Castres;Julien CAMINATI;Ailier;Trois-Quarts;28/10/1985;178;88;5;;FALSE
+Castres;Martin LAVEAU;Ailier;Trois-Quarts;10/09/1996;182;78;5;;FALSE
+Castres;Taylor PARIS;Ailier;Trois-Quarts;06/10/1992;185;93;5;;FALSE
+Castres;Geoffrey PALIS;Arrière;Arrière;08/07/1991;189;93;5;;FALSE
+Castres;Julien DUMORA;Arrière;Arrière;24/03/1988;184;96;5;;FALSE
+Clermont;Beqa KAKABADZE;Pilier;Avant;07/09/1995;181;110;6;;FALSE
+Clermont;Davit ZIRAKASHVILI;Pilier;Avant;10/10/1983;179;120;6;;TRUE
+Clermont;Duane AHOLELEI;Pilier;Avant;16/02/1989;189;130;6;;FALSE
+Clermont;Etienne FALGOUX;Pilier;Avant;19/01/1993;182;112;6;;TRUE
+Clermont;Giorgi BERIA;Pilier;Avant;11/11/1999;175;107;6;;FALSE
+Clermont;Loni UHILA;Pilier;Avant;07/04/1989;182;125;6;;FALSE
+Clermont;Rabah SLIMANI;Pilier;Avant;18/10/1989;178;113;6;;FALSE
+Clermont;Sipili FALATEA;Pilier;Avant;06/06/1997;184;116;6;;FALSE
+Clermont;John ULUGIA;Talonneur;Avant;17/01/1986;180;115;6;;TRUE
+Clermont;Mike TADJER;Talonneur;Avant;10/03/1989;183;110;6;;FALSE
+Clermont;Yohan BEHEREGARAY;Talonneur;Avant;29/05/1996;180;102;6;;FALSE
+Clermont;Clément LANEN;2ème ligne;2ème ligne;01/04/1998;196;103;6;;FALSE
+Clermont;George MERRICK;2ème ligne;2ème ligne;04/10/1992;201;126;6;;FALSE
+Clermont;Jaco VAN TONDER;2ème ligne;2ème ligne;03/03/1998;197;118;6;;FALSE
+Clermont;Paul JEDRASIAK;2ème ligne;2ème ligne;06/02/1993;200;118;6;;TRUE
+Clermont;Sébastien VAHAAMAHINA;2ème ligne;2ème ligne;21/10/1991;203;120;6;;TRUE
+Clermont;Sitaleki TIMANI;2ème ligne;2ème ligne;19/09/1986;203;120;6;;FALSE
+Clermont;Alexandre FISCHER;3ème ligne;3ème ligne;19/01/1998;188;103;6;;TRUE
+Clermont;Alexandre LAPANDRY;3ème ligne;3ème ligne;13/04/1989;194;101;6;;FALSE
+Clermont;Arthur ITURRIA;3ème ligne;3ème ligne;13/05/1994;198;112;6;;TRUE
+Clermont;Faifili LEVAVE;3ème ligne;3ème ligne;15/01/1986;193;111;6;;FALSE
+Clermont;Fritz LEE;3ème ligne;3ème ligne;29/08/1988;188;107;6;;TRUE
+Clermont;Judicaël CANCORIET;3ème ligne;3ème ligne;25/04/1996;194;112;6;;FALSE
+Clermont;Peceli YATO;3ème ligne;3ème ligne;17/01/1993;196;120;6;;FALSE
+Clermont;Charlie CASSANG;Mêlée;Demi;08/02/1995;173;84;6;;FALSE
+Clermont;Greig LAIDLAW;Mêlée;Demi;12/10/1985;176;78;6;;FALSE
+Clermont;Morgan PARRA;Mêlée;Demi;15/11/1988;180;81;6;;TRUE
+Clermont;Rudy PAIGE;Mêlée;Demi;02/08/1989;169;77;6;;FALSE
+Clermont;Camille LOPEZ;Ouverture;Demi;03/04/1989;176;87;6;;TRUE
+Clermont;Jake MCINTYRE;Ouverture;Demi;28/04/1994;177;88;6;;FALSE
+Clermont;Apisai NAQALEVU;Centre;Trois-Quarts;21/08/1989;188;104;6;;FALSE
+Clermont;George MOALA;Centre;Trois-Quarts;05/11/1990;187;104;6;;TRUE
+Clermont;JJ ENGELBRECHT;Centre;Trois-Quarts;22/02/1989;190;94;6;;FALSE
+Clermont;Wesley FOFANA;Centre;Trois-Quarts;20/01/1988;182;93;6;;TRUE
+Clermont;Alivereti RAKA;Ailier;Trois-Quarts;09/12/1994;189;97;6;;TRUE
+Clermont;Damian PENAUD;Ailier;Trois-Quarts;25/09/1996;192;94;6;;FALSE
+Clermont;Peter BETHAM;Ailier;Trois-Quarts;06/01/1989;191;98;6;;FALSE
+Clermont;Rémy GROSSO;Ailier;Trois-Quarts;04/12/1988;191;104;6;;FALSE
+Clermont;Samuel EZEALA;Ailier;Trois-Quarts;11/12/1999;187;94;6;;FALSE
+Clermont;Tim NANAI-WILLIAMS;Ailier;Trois-Quarts;12/06/1989;182;90;6;;FALSE
+Clermont;Isaia TOEAVA;Arrière;Arrière;15/01/1986;181;100;6;;FALSE
+Clermont;Nick ABENDANON;Arrière;Arrière;27/08/1986;178;83;6;;TRUE
+Clermont;Setariki TUICUVU;Arrière;Arrière;07/09/1995;179;94;6;;FALSE
+La Rochelle;Arthur JOLY;Pilier;Avant;20/02/1988;189;123;7;;FALSE
+La Rochelle;Dany PRISO;Pilier;Avant;02/01/1994;182;110;7;;FALSE
+La Rochelle;Mike CORBEL;Pilier;Avant;09/04/1992;179;118;7;;FALSE
+La Rochelle;Ramiro HERRERA;Pilier;Avant;14/02/1989;194;123;7;;FALSE
+La Rochelle;Reda WARDI;Pilier;Avant;02/08/1995;185;110;7;;FALSE
+La Rochelle;Sila PUAFISI;Pilier;Avant;15/04/1988;183;128;7;;FALSE
+La Rochelle;Uini ATONIO;Pilier;Avant;26/03/1990;196;152;7;;FALSE
+La Rochelle;Vincent PELO;Pilier;Avant;22/04/1988;187;130;7;;FALSE
+La Rochelle;Facundo BOSCH;Talonneur;Avant;08/08/1991;180;100;7;;FALSE
+La Rochelle;Jean-Charles ORIOLI;Talonneur;Avant;09/08/1989;179;110;7;;FALSE
+La Rochelle;Pierre BOURGARIT;Talonneur;Avant;12/09/1997;184;105;7;;FALSE
+La Rochelle;Jone QOVU;2ème ligne;2ème ligne;26/07/1985;197;134;7;;FALSE
+La Rochelle;Mathieu TANGUY;2ème ligne;2ème ligne;05/06/1996;195;110;7;;FALSE
+La Rochelle;Romain SAZY;2ème ligne;2ème ligne;14/10/1986;199;105;7;;FALSE
+La Rochelle;Thomas JOLMÈS;2ème ligne;2ème ligne;08/10/1995;204;116;7;;FALSE
+La Rochelle;Thomas LAVAULT;2ème ligne;2ème ligne;03/05/1999;199;105;7;;FALSE
+La Rochelle;Kévin GOURDON;3ème ligne;3ème ligne;23/01/1990;190;103;7;;FALSE
+La Rochelle;Lopeti TIMANI;3ème ligne;3ème ligne;28/09/1990;193;124;7;;FALSE
+La Rochelle;Rémi BOURDEAU;3ème ligne;3ème ligne;27/02/1992;195;108;7;;FALSE
+La Rochelle;Victor VITO;3ème ligne;3ème ligne;27/03/1987;192;112;7;;FALSE
+La Rochelle;Wiaan LIEBENBERG;3ème ligne;3ème ligne;31/08/1992;189;105;7;;FALSE
+La Rochelle;Zeno KIEFT;3ème ligne;3ème ligne;02/11/1991;191;102;7;;FALSE
+La Rochelle;Alexi BALÈS;Mêlée;Demi;30/05/1990;174;80;7;;FALSE
+La Rochelle;Tawera KERR-BARLOW;Mêlée;Demi;15/08/1990;187;91;7;;FALSE
+La Rochelle;Brock JAMES;Ouverture;Demi;22/10/1981;179;89;7;;FALSE
+La Rochelle;Ihaia WEST;Ouverture;Demi;16/01/1992;175;85;7;;FALSE
+La Rochelle;Maxime LAFAGE;Ouverture;Demi;01/09/1994;183;84;7;;FALSE
+La Rochelle;Brieuc PLESSIS-COUILLAUD;Centre;Trois-Quarts;19/03/1994;180;95;7;;FALSE
+La Rochelle;Geoffrey DOUMAYROU;Centre;Trois-Quarts;16/09/1989;186;92;7;;FALSE
+La Rochelle;Jérémy SINZELLE;Centre;Trois-Quarts;02/07/1990;184;88;7;;FALSE
+La Rochelle;Jules FAVRE;Centre;Trois-Quarts;22/03/1999;181;88;7;;FALSE
+La Rochelle;Levani BOTIA;Centre;Trois-Quarts;14/03/1989;182;103;7;;FALSE
+La Rochelle;Pierre AGUILLON;Centre;Trois-Quarts;27/03/1987;180;93;7;;FALSE
+La Rochelle;Arthur RETIÈRE;Ailier;Trois-Quarts;01/08/1997;173;75;7;;FALSE
+La Rochelle;Eliott ROUDIL;Ailier;Trois-Quarts;30/10/1996;184;97;7;;FALSE
+La Rochelle;Gabriel LACROIX;Ailier;Trois-Quarts;19/10/1993;171;80;7;;FALSE
+La Rochelle;Marc ANDREU;Ailier;Trois-Quarts;27/12/1985;170;75;7;;FALSE
+La Rochelle;Kini MURIMURIVALU;Arrière;Arrière;15/05/1989;176;97;7;;FALSE
+La Rochelle;Vincent RATTEZ;Arrière;Arrière;24/03/1992;180;78;7;;FALSE
+Lyon;Clément RIC;Pilier;Avant;18/07/1988;182;117;8;;FALSE
+Lyon;Francisco GOMEZ KODELA;Pilier;Avant;03/07/1985;184;121;8;;FALSE
+Lyon;Hamza KAABÈCHE;Pilier;Avant;23/09/1996;188;118;8;;FALSE
+Lyon;Raphaël CHAUME;Pilier;Avant;29/04/1989;185;110;8;;FALSE
+Lyon;Vivien DEVISME;Pilier;Avant;23/03/1992;175;112;8;;FALSE
+Lyon;Xavier CHIOCCI;Pilier;Avant;13/02/1990;180;110;8;;FALSE
+Lyon;Badri ALKHAZASHVILI;Talonneur;Avant;31/07/1995;185;110;8;;FALSE
+Lyon;Jérémie MAUROUARD;Talonneur;Avant;23/09/1992;181;100;8;;FALSE
+Lyon;Mickaël IVALDI;Talonneur;Avant;20/02/1990;181;108;8;;FALSE
+Lyon;Etienne OOSTHUIZEN;2ème ligne;2ème ligne;22/12/1992;198;120;8;;FALSE
+Lyon;Félix LAMBEY;2ème ligne;2ème ligne;15/03/1994;196;110;8;;FALSE
+Lyon;Hendrik ROODT;2ème ligne;2ème ligne;06/11/1987;198;126;8;;FALSE
+Lyon;Kilian GÉRACI;2ème ligne;2ème ligne;25/03/1999;200;106;8;;FALSE
+Lyon;Virgile BRUNI;2ème ligne;2ème ligne;06/02/1989;198;109;8;;FALSE
+Lyon;Carl FEARNS;3ème ligne;3ème ligne;28/05/1989;191;118;8;;FALSE
+Lyon;Dylan CRETIN;3ème ligne;3ème ligne;04/05/1997;195;101;8;;FALSE
+Lyon;Julien PURICELLI;3ème ligne;3ème ligne;01/08/1981;196;103;8;;FALSE
+Lyon;Liam GILL;3ème ligne;3ème ligne;08/06/1992;184;100;8;;FALSE
+Lyon;Loann GOUJON;3ème ligne;3ème ligne;23/04/1989;194;106;8;;FALSE
+Lyon;Patrick SOBELA;3ème ligne;3ème ligne;12/08/1992;188;105;8;;FALSE
+Lyon;Tanginoa HALAIFONUA;3ème ligne;3ème ligne;03/08/1996;196;114;8;;FALSE
+Lyon;Baptiste COUILLOUD;Mêlée;Demi;22/07/1997;176;77;8;;FALSE
+Lyon;Jonathan PÉLISSIÉ;Mêlée;Demi;06/06/1988;179;83;8;;FALSE
+Lyon;Jean-Marc DOUSSAIN;Ouverture;Demi;12/02/1991;174;88;8;;FALSE
+Lyon;Jonathan WISNIEWSKI;Ouverture;Demi;16/07/1985;180;85;8;;FALSE
+Lyon;Patricio FERNANDEZ;Ouverture;Demi;11/10/1994;192;100;8;;FALSE
+Lyon;Charlie NGATAI;Centre;Trois-Quarts;17/08/1990;188;103;8;;FALSE
+Lyon;Mathieu BASTAREAUD;Centre;Trois-Quarts;17/09/1988;183;123;8;;FALSE
+Lyon;Pierre-Louis BARASSI;Centre;Trois-Quarts;22/04/1998;188;93;8;;FALSE
+Lyon;Rudi WULF;Centre;Trois-Quarts;02/02/1984;182;90;8;;FALSE
+Lyon;Thibaut REGARD;Centre;Trois-Quarts;06/08/1993;180;95;8;;FALSE
+Lyon;Alexis PALISSON;Ailier;Trois-Quarts;09/09/1987;177;85;8;;FALSE
+Lyon;Josua TUISOVA;Ailier;Trois-Quarts;04/02/1994;180;91;8;;FALSE
+Lyon;Noa NAKAITACI;Ailier;Trois-Quarts;11/07/1990;190;94;8;;FALSE
+Lyon;Toby ARNOLD;Ailier;Trois-Quarts;11/09/1987;178;86;8;;FALSE
+Lyon;Xavier MIGNOT;Ailier;Trois-Quarts;27/01/1994;188;100;8;;FALSE
+Lyon;Clément LAPORTE;Arrière;Arrière;07/01/1998;181;87;8;;FALSE
+Lyon;Jean-Marcellin BUTTIN;Arrière;Arrière;16/12/1991;190;94;8;;FALSE
+Montpellier;Antoine GUILLAMON;Pilier;Avant;04/06/1991;192;136;9;;FALSE
+Montpellier;Daniel BRENNAN;Pilier;Avant;23/09/1998;192;132;9;;FALSE
+Montpellier;Grégory FICHTEN;Pilier;Avant;13/08/1990;183;124;9;;FALSE
+Montpellier;Jannie DU PLESSIS;Pilier;Avant;16/11/1982;188;121;9;;FALSE
+Montpellier;Levan CHILACHAVA;Pilier;Avant;17/08/1991;188;118;9;;FALSE
+Montpellier;Lizo GQOBOKA;Pilier;Avant;24/03/1990;183;118;9;;FALSE
+Montpellier;Luka AZARIASHVILI;Pilier;Avant;30/11/1999;186;118;9;;FALSE
+Montpellier;Misha NARIASHVILI;Pilier;Avant;25/05/1990;186;118;9;;FALSE
+Montpellier;Mohamed HAOUAS;Pilier;Avant;09/03/1994;185;127;9;;FALSE
+Montpellier;Bismarck DU PLESSIS;Talonneur;Avant;22/05/1984;189;114;9;;FALSE
+Montpellier;Guilhem GUIRADO;Talonneur;Avant;17/06/1986;183;105;9;;FALSE
+Montpellier;Ronan CHAMBORD;Talonneur;Avant;11/04/1994;177;104;9;;FALSE
+Montpellier;Valentin SEILLÉ;Talonneur;Avant;07/04/1999;182;108;9;;FALSE
+Montpellier;Vincent GIUDICELLI;Talonneur;Avant;25/06/1997;183;100;9;;FALSE
+Montpellier;Youri DELHOMMEL;Talonneur;Avant;06/03/1996;181;100;9;;FALSE
+Montpellier;Jacques DU PLESSIS;2ème ligne;2ème ligne;12/08/1993;201;123;9;;FALSE
+Montpellier;Julien LEDEVEDEC;2ème ligne;2ème ligne;04/06/1986;199;114;9;;FALSE
+Montpellier;Konstantine MIKAUTADZE;2ème ligne;2ème ligne;01/07/1991;200;128;9;;FALSE
+Montpellier;Nicolaas Janse VAN RENSBURG;2ème ligne;2ème ligne;06/05/1994;200;112;9;;FALSE
+Montpellier;Paul WILLEMSE;2ème ligne;2ème ligne;13/11/1992;201;129;9;;FALSE
+Montpellier;Caleb TIMU;3ème ligne;3ème ligne;22/02/1994;190;117;9;;FALSE
+Montpellier;Fulgence OUEDRAOGO;3ème ligne;3ème ligne;21/07/1986;191;99;9;;FALSE
+Montpellier;Julien BARDY;3ème ligne;3ème ligne;03/04/1986;188;98;9;;FALSE
+Montpellier;Kélian GALLETIER;3ème ligne;3ème ligne;18/03/1992;188;100;9;;FALSE
+Montpellier;Kévin KORNATH;3ème ligne;3ème ligne;27/12/1996;194;110;9;;FALSE
+Montpellier;Louis PICAMOLES;3ème ligne;3ème ligne;05/02/1986;192;118;9;;FALSE
+Montpellier;Lucas DE CONINCK;3ème ligne;3ème ligne;15/01/1996;194;110;9;;FALSE
+Montpellier;Martin DEVERGIE;3ème ligne;3ème ligne;26/06/1995;193;116;9;;FALSE
+Montpellier;Yacouba CAMARA;3ème ligne;3ème ligne;02/06/1994;195;112;9;;FALSE
+Montpellier;Benoît PAILLAUGUE;Mêlée;Demi;17/11/1987;172;74;9;;FALSE
+Montpellier;Enzo SANGA;Mêlée;Demi;19/05/1995;176;75;9;;FALSE
+Montpellier;Kahn FOTUALII;Mêlée;Demi;22/05/1982;183;96;9;;FALSE
+Montpellier;Aaron CRUDEN;Ouverture;Demi;08/01/1989;178;84;9;;FALSE
+Montpellier;Handré POLLARD;Ouverture;Demi;11/03/1994;189;98;9;;FALSE
+Montpellier;Thomas DARMON;Ouverture;Demi;12/05/1998;181;83;9;;FALSE
+Montpellier;Arthur VINCENT;Centre;Trois-Quarts;30/09/1999;183;90;9;;FALSE
+Montpellier;François STEYN;Centre;Trois-Quarts;14/05/1987;191;111;9;;FALSE
+Montpellier;Jan SERFONTEIN;Centre;Trois-Quarts;15/04/1993;187;97;9;;FALSE
+Montpellier;Vincent MARTIN;Centre;Trois-Quarts;04/09/1992;185;93;9;;FALSE
+Montpellier;Yvan REILHAC;Centre;Trois-Quarts;09/06/1995;182;92;9;;FALSE
+Montpellier;Gabriel NGANDEBE;Ailier;Trois-Quarts;30/03/1997;174;75;9;;FALSE
+Montpellier;Nemani NADOLO;Ailier;Trois-Quarts;31/01/1988;194;130;9;;FALSE
+Montpellier;Pierre TOURNEBIZE;Ailier;Trois-Quarts;25/09/1998;186;98;9;;FALSE
+Montpellier;Timoci NAGUSA;Ailier;Trois-Quarts;14/07/1987;183;106;9;;FALSE
+Montpellier;Anthony BOUTHIER;Arrière;Arrière;19/06/1992;182;86;9;;FALSE
+Montpellier;Benjamin FALL;Arrière;Arrière;03/03/1989;186;93;9;;FALSE
+Montpellier;Henry IMMELMAN;Arrière;Arrière;26/05/1995;189;96;9;;FALSE
+Montpellier;Johan GOOSEN;Arrière;Arrière;27/07/1992;184;89;9;;FALSE
+Paris;Carlü SADIE;Pilier;Avant;07/03/1997;180;124;10;;FALSE
+Paris;Christopher VAOTOA;Pilier;Avant;16/11/1996;185;138;10;;FALSE
+Paris;Giorgi MELIKIDZE;Pilier;Avant;24/05/1996;179;117;10;;FALSE
+Paris;Luke TAGI;Pilier;Avant;23/06/1997;187;130;10;;FALSE
+Paris;Paul ALO-EMILE;Pilier;Avant;22/12/1991;180;128;10;;FALSE
+Paris;Quentin BÉTHUNE;Pilier;Avant;25/09/1995;183;112;10;;FALSE
+Paris;Sami MAVINGA;Pilier;Avant;25/05/1993;181;116;10;;FALSE
+Paris;Stéphane CLÉMENT;Pilier;Avant;03/09/1987;183;121;10;;FALSE
+Paris;Thierry FUTEU;Pilier;Avant;23/06/1995;186;114;10;;FALSE
+Paris;Damien FITZPATRICK;Talonneur;Avant;08/06/1989;183;105;10;;FALSE
+Paris;Laurent PANIS;Talonneur;Avant;23/04/1993;180;102;10;;FALSE
+Paris;Lucas DA SILVA;Talonneur;Avant;19/12/1997;188;115;10;;FALSE
+Paris;Rémi BONFILS;Talonneur;Avant;26/09/1988;178;101;10;;FALSE
+Paris;Sione ANGAAELANGI;Talonneur;Avant;07/11/1988;180;106;10;;FALSE
+Paris;Tolu LATU;Talonneur;Avant;23/02/1993;180;113;10;;FALSE
+Paris;Hugh PYLE;2ème ligne;2ème ligne;21/09/1988;201;116;10;;FALSE
+Paris;Mathieu DE GIOVANNI;2ème ligne;2ème ligne;10/01/1994;197;115;10;;FALSE
+Paris;Paul GABRILLAGUES;2ème ligne;2ème ligne;03/06/1993;199;119;10;;FALSE
+Paris;Pierre-Henri AZAGOH;2ème ligne;2ème ligne;25/07/1998;198;105;10;;FALSE
+Paris;Yoann MAESTRI;2ème ligne;2ème ligne;14/01/1988;202;119;10;;FALSE
+Paris;Antoine BURBAN;3ème ligne;3ème ligne;22/07/1987;189;101;10;;FALSE
+Paris;Charlie FRANCOZ;3ème ligne;3ème ligne;03/06/1998;195;108;10;;FALSE
+Paris;Joketani KOROI;3ème ligne;3ème ligne;01/01/1996;198;115;10;;FALSE
+Paris;Josh STRAUSS;3ème ligne;3ème ligne;23/10/1986;200;114;10;;FALSE
+Paris;Loïc GODENER;3ème ligne;3ème ligne;13/08/1995;188;115;10;;FALSE
+Paris;Pablo MATERA;3ème ligne;3ème ligne;18/07/1993;193;110;10;;FALSE
+Paris;Ryan CHAPUIS;3ème ligne;3ème ligne;12/12/1997;189;104;10;;FALSE
+Paris;Sekou MACALOU;3ème ligne;3ème ligne;20/04/1995;195;100;10;;FALSE
+Paris;Talalelei GRAY;3ème ligne;3ème ligne;28/02/1990;194;110;10;;FALSE
+Paris;Willem ALBERTS;3ème ligne;3ème ligne;11/05/1984;192;120;10;;FALSE
+Paris;Arthur COVILLE;Mêlée;Demi;04/02/1998;178;83;10;;FALSE
+Paris;Clément DAGUIN;Mêlée;Demi;25/05/1992;180;87;10;;FALSE
+Paris;James HALL;Mêlée;Demi;02/01/1996;172;84;10;;FALSE
+Paris;Joris SEGONDS;Ouverture;Demi;06/04/1997;180;91;10;;FALSE
+Paris;Jules PLISSON;Ouverture;Demi;20/08/1991;184;88;10;;FALSE
+Paris;Morné STEYN;Ouverture;Demi;11/07/1984;183;91;10;;FALSE
+Paris;Nicolas SANCHEZ;Ouverture;Demi;26/10/1988;177;85;10;;FALSE
+Paris;Alex ARRATE;Centre;Trois-Quarts;24/06/1997;180;90;10;;FALSE
+Paris;Gaël FICKOU;Centre;Trois-Quarts;26/03/1994;190;100;10;;FALSE
+Paris;Jonathan DANTY;Centre;Trois-Quarts;07/10/1992;181;107;10;;FALSE
+Paris;Julien DELBOUIS;Centre;Trois-Quarts;04/08/1999;185;95;10;;FALSE
+Paris;Lionel MAPOE;Centre;Trois-Quarts;13/07/1988;183;95;10;;FALSE
+Paris;Adrien LAPÈGUE;Ailier;Trois-Quarts;21/10/1998;181;88;10;;FALSE
+Paris;Julien ARIAS;Ailier;Trois-Quarts;26/10/1983;178;89;10;;FALSE
+Paris;Lester ETIEN;Ailier;Trois-Quarts;21/06/1995;180;90;10;;FALSE
+Paris;Ruan COMBRINCK;Ailier;Trois-Quarts;10/05/1990;183;97;10;;FALSE
+Paris;Sefa NAIVALU;Ailier;Trois-Quarts;07/01/1992;186;101;10;;FALSE
+Paris;Waisea NAYACALEVU;Ailier;Trois-Quarts;26/06/1990;193;104;10;;FALSE
+Paris;Kylan HAMDAOUI;Arrière;Arrière;15/04/1994;182;84;10;;FALSE
+Pau;Geoffrey MOÏSE;Pilier;Avant;20/08/1991;187;130;11;;FALSE
+Pau;Ignacio CALLES;Pilier;Avant;24/10/1995;187;116;11;;FALSE
+Pau;Lourens ADRIAANSE;Pilier;Avant;05/02/1988;181;115;11;;FALSE
+Pau;Lucas POINTUD;Pilier;Avant;18/01/1988;189;127;11;;FALSE
+Pau;Malik HAMADACHE;Pilier;Avant;17/10/1988;193;141;11;;FALSE
+Pau;Mohamed BOUGHANMI;Pilier;Avant;27/10/1991;194;126;11;;FALSE
+Pau;Nicolas CORATO;Pilier;Avant;07/10/1997;184;120;11;;FALSE
+Pau;Siegfried FISIIHOI;Pilier;Avant;06/08/1987;184;125;11;;FALSE
+Pau;Lucas REY;Talonneur;Avant;27/04/1997;175;95;11;;FALSE
+Pau;Quentin LESPIAUCQ-BRETTES;Talonneur;Avant;16/02/1995;180;95;11;;FALSE
+Pau;Dan MALAFOSSE;2ème ligne;2ème ligne;14/01/1992;195;121;11;;FALSE
+Pau;Daniel RAMSAY;2ème ligne;2ème ligne;01/06/1984;197;114;11;;FALSE
+Pau;Denis MARCHOIS;2ème ligne;2ème ligne;05/02/1994;198;115;11;;FALSE
+Pau;Fabrice METZ;2ème ligne;2ème ligne;23/01/1991;196;121;11;;FALSE
+Pau;Julien DELANNOY;2ème ligne;2ème ligne;15/06/1995;198;123;11;;FALSE
+Pau;Antoine ERBANI;3ème ligne;3ème ligne;07/02/1990;192;100;11;;FALSE
+Pau;Baptiste PESENTI;3ème ligne;3ème ligne;03/07/1997;195;118;11;;FALSE
+Pau;Clément FOURNIER;3ème ligne;3ème ligne;06/05/2000;190;105;11;;FALSE
+Pau;Dominiko WAQANIBUROTU;3ème ligne;3ème ligne;20/04/1986;193;114;11;;FALSE
+Pau;Giovanni HABEL-KUEFFNER;3ème ligne;3ème ligne;09/01/1995;190;110;11;;FALSE
+Pau;Lekima TAGITAGIVALU;3ème ligne;3ème ligne;12/12/1995;193;109;11;;FALSE
+Pau;Luke WHITELOCK;3ème ligne;3ème ligne;29/01/1991;190;116;11;;FALSE
+Pau;Martin PUECH;3ème ligne;3ème ligne;14/12/1988;193;95;11;;FALSE
+Pau;Matthieu UGENA;3ème ligne;3ème ligne;25/07/1995;186;106;11;;FALSE
+Pau;Pierrick GUNTHER;3ème ligne;3ème ligne;16/10/1989;190;106;11;;FALSE
+Pau;Clovis LE BAIL;Mêlée;Demi;29/11/1995;173;74;11;;FALSE
+Pau;Samuel MARQUÈS;Mêlée;Demi;08/12/1988;177;76;11;;FALSE
+Pau;Thibault DAUBAGNA;Mêlée;Demi;20/05/1994;177;80;11;;FALSE
+Pau;Antoine HASTOY;Ouverture;Demi;04/06/1997;180;86;11;;FALSE
+Pau;Colin SLADE;Ouverture;Demi;10/10/1987;183;90;11;;FALSE
+Pau;Tom TAYLOR;Ouverture;Demi;11/03/1989;183;90;11;;FALSE
+Pau;Alexandre DUMOULIN;Centre;Trois-Quarts;24/08/1989;189;101;11;;FALSE
+Pau;Atila SEPTAR;Centre;Trois-Quarts;02/06/1996;195;99;11;;FALSE
+Pau;Benson STANLEY;Centre;Trois-Quarts;11/09/1984;184;98;11;;FALSE
+Pau;Florian NICOT;Centre;Trois-Quarts;30/09/1986;184;95;11;;FALSE
+Pau;Jale VATUBUA;Centre;Trois-Quarts;30/08/1991;189;121;11;;FALSE
+Pau;Julien FUMAT;Centre;Trois-Quarts;26/03/1987;180;83;11;;FALSE
+Pau;Pierre NUENO;Centre;Trois-Quarts;15/05/1996;184;90;11;;FALSE
+Pau;Bastien POURAILLY;Ailier;Trois-Quarts;31/01/1994;177;80;11;;FALSE
+Pau;Ben SMITH;Ailier;Trois-Quarts;01/06/1986;186;94;11;;FALSE
+Pau;Vincent PINTO;Ailier;Trois-Quarts;10/04/1999;187;93;11;;FALSE
+Pau;Watisoni VOTU;Ailier;Trois-Quarts;25/03/1985;187;100;11;;FALSE
+Pau;Charly MALIÉ;Arrière;Arrière;05/11/1991;185;87;11;;FALSE
+Pau;Jesse MOGG;Arrière;Arrière;08/06/1989;187;90;11;;FALSE
+Racing92;Ali OZ;Pilier;Avant;28/05/1995;193;140;12;;FALSE
+Racing92;Ben TAMEIFUNA;Pilier;Avant;30/08/1991;182;140;12;;FALSE
+Racing92;Cedate GOMES SA;Pilier;Avant;07/08/1993;185;113;12;;FALSE
+Racing92;Eddy BEN AROUS;Pilier;Avant;25/08/1990;183;117;12;;FALSE
+Racing92;Georges-Henri COLOMBE;Pilier;Avant;09/04/1998;193;133;12;;FALSE
+Racing92;Hassane KOLINGAR;Pilier;Avant;06/03/1998;186;116;12;;FALSE
+Racing92;Vasil KAKOVIN;Pilier;Avant;01/12/1989;183;110;12;;FALSE
+Racing92;Camille CHAT;Talonneur;Avant;18/12/1995;178;101;12;;FALSE
+Racing92;Issam HAMEL;Talonneur;Avant;18/06/1997;180;110;12;;FALSE
+Racing92;Kévin LE GUEN;Talonneur;Avant;17/11/1990;183;105;12;;FALSE
+Racing92;Teddy BAUBIGNY;Talonneur;Avant;02/09/1998;187;111;12;;FALSE
+Racing92;Dominic BIRD;2ème ligne;2ème ligne;09/04/1991;206;115;12;;FALSE
+Racing92;Donnacha RYAN;2ème ligne;2ème ligne;11/12/1983;201;114;12;;FALSE
+Racing92;Leone NAKARAWA;2ème ligne;2ème ligne;04/02/1988;200;125;12;;FALSE
+Racing92;Antonie CLAASSEN;3ème ligne;3ème ligne;20/10/1984;191;106;12;;FALSE
+Racing92;Baptiste CHOUZENOUX;3ème ligne;3ème ligne;07/08/1993;202;107;12;;FALSE
+Racing92;Bernard LE ROUX;3ème ligne;3ème ligne;04/06/1989;196;113;12;;FALSE
+Racing92;Boris PALU;3ème ligne;3ème ligne;04/02/1996;193;109;12;;FALSE
+Racing92;Fabien SANCONNIE;3ème ligne;3ème ligne;21/02/1995;195;110;12;;FALSE
+Racing92;Ibrahim DIALLO;3ème ligne;3ème ligne;23/01/1998;193;109;12;;FALSE
+Racing92;Jordan JOSEPH;3ème ligne;3ème ligne;31/07/2000;189;115;12;;FALSE
+Racing92;Wenceslas LAURET;3ème ligne;3ème ligne;28/03/1989;188;103;12;;FALSE
+Racing92;Yoan TANGA-MANGENE;3ème ligne;3ème ligne;29/11/1996;185;108;12;;FALSE
+Racing92;Antoine GIBERT;Mêlée;Demi;31/12/1997;177;76;12;;FALSE
+Racing92;Maxime MACHENAUD;Mêlée;Demi;30/12/1988;174;87;12;;FALSE
+Racing92;Sam HIDALGO-CLYNE;Mêlée;Demi;04/08/1993;175;76;12;;FALSE
+Racing92;Teddy IRIBAREN;Mêlée;Demi;25/09/1990;170;70;12;;FALSE
+Racing92;Ben VOLAVOLA;Ouverture;Demi;13/01/1991;191;93;12;;FALSE
+Racing92;Finn RUSSELL;Ouverture;Demi;23/09/1992;183;87;12;;FALSE
+Racing92;François TRINH-DUC;Ouverture;Demi;11/11/1986;186;90;12;;FALSE
+Racing92;Joaquin DIAZ BONILLA;Ouverture;Demi;12/04/1989;177;80;12;;FALSE
+Racing92;Henry CHAVANCY;Centre;Trois-Quarts;22/05/1988;181;92;12;;FALSE
+Racing92;Léonard PARIS;Centre;Trois-Quarts;20/03/1996;180;92;12;;FALSE
+Racing92;Olivier KLEMENCZAK;Centre;Trois-Quarts;01/06/1996;181;81;12;;FALSE
+Racing92;Virimi VAKATAWA;Centre;Trois-Quarts;01/05/1992;185;98;12;;FALSE
+Racing92;Dorian LABORDE;Ailier;Trois-Quarts;30/12/1996;178;107;12;;FALSE
+Racing92;Juan IMHOFF;Ailier;Trois-Quarts;11/05/1988;185;90;12;;FALSE
+Racing92;Simon ZEBO;Ailier;Trois-Quarts;16/03/1990;187;94;12;;FALSE
+Racing92;Teddy THOMAS;Ailier;Trois-Quarts;18/09/1993;185;90;12;;FALSE
+Racing92;Brice DULIN;Arrière;Arrière;13/04/1990;176;82;12;;FALSE
+Racing92;Louis DUPICHOT;Arrière;Arrière;23/09/1995;183;86;12;;FALSE
+Toulon;Beka GIGASHVILI;Pilier;Avant;17/02/1992;177;114;13;;FALSE
+Toulon;Bruce DEVAUX;Pilier;Avant;14/11/1996;183;108;13;;FALSE
+Toulon;Florian FRESIA;Pilier;Avant;17/01/1992;185;110;13;;FALSE
+Toulon;Jean-Baptiste GROS;Pilier;Avant;29/05/1999;187;110;13;;FALSE
+Toulon;Marcel VAN DER MERWE;Pilier;Avant;24/10/1990;188;120;13;;FALSE
+Toulon;Sébastien TAOFIFENUA;Pilier;Avant;21/03/1992;178;130;13;;FALSE
+Toulon;Wilco LOUW;Pilier;Avant;20/07/1994;185;133;13;;FALSE
+Toulon;Anthony ÉTRILLARD;Talonneur;Avant;21/03/1993;183;110;13;;FALSE
+Toulon;Bastien SOURY;Talonneur;Avant;18/03/1995;180;105;13;;FALSE
+Toulon;Christopher TOLOFUA;Talonneur;Avant;31/12/1993;182;117;13;;FALSE
+Toulon;Brian ALAINUUESE;2ème ligne;2ème ligne;19/03/1994;202;135;13;;FALSE
+Toulon;Corentin VERNET;2ème ligne;2ème ligne;27/09/1996;200;127;13;;FALSE
+Toulon;Eben ETZEBETH;2ème ligne;2ème ligne;29/10/1991;203;117;13;;FALSE
+Toulon;Mamuka GORGODZE;2ème ligne;2ème ligne;14/07/1984;196;120;13;;FALSE
+Toulon;Romain TAOFIFENUA;2ème ligne;2ème ligne;14/09/1990;200;127;13;;FALSE
+Toulon;Swan REBBADJ;2ème ligne;2ème ligne;15/01/1995;202;116;13;;FALSE
+Toulon;Charles OLLIVON;3ème ligne;3ème ligne;11/05/1993;199;114;13;;FALSE
+Toulon;Facundo ISA;3ème ligne;3ème ligne;21/09/1993;188;111;13;;FALSE
+Toulon;Liam MESSAM;3ème ligne;3ème ligne;25/03/1984;190;109;13;;FALSE
+Toulon;Raphaël LAKAFIA;3ème ligne;3ème ligne;28/10/1988;191;115;13;;FALSE
+Toulon;Sergio PARISSE;3ème ligne;3ème ligne;12/09/1983;196;122;13;;FALSE
+Toulon;Stéphane ONAMBÉLÉ;3ème ligne;3ème ligne;12/02/1993;188;94;13;;FALSE
+Toulon;Thomas HOARAU;3ème ligne;3ème ligne;01/06/1995;190;112;13;;FALSE
+Toulon;Anthony MÉRIC;Mêlée;Demi;15/02/1995;177;77;13;;FALSE
+Toulon;Baptiste SERIN;Mêlée;Demi;20/06/1994;180;79;13;;FALSE
+Toulon;Louis SCHREUDER;Mêlée;Demi;25/04/1990;184;82;13;;FALSE
+Toulon;Rhys WEBB;Mêlée;Demi;09/12/1988;183;93;13;;FALSE
+Toulon;Anthony BELLEAU;Ouverture;Demi;08/04/1996;177;85;13;;FALSE
+Toulon;Louis CARBONEL;Ouverture;Demi;04/02/1999;180;85;13;;FALSE
+Toulon;Mathieu SMAÏLI;Ouverture;Demi;30/08/1999;180;84;13;;FALSE
+Toulon;Ben TEO;Centre;Trois-Quarts;27/01/1987;188;105;13;;FALSE
+Toulon;Duncan PAIAAUA;Centre;Trois-Quarts;20/01/1995;180;91;13;;FALSE
+Toulon;Julian SAVEA;Centre;Trois-Quarts;07/08/1990;192;108;13;;FALSE
+Toulon;Julien HÉRITEAU;Centre;Trois-Quarts;12/09/1994;181;90;13;;FALSE
+Toulon;Théo DACHARY;Centre;Trois-Quarts;26/03/1997;184;92;13;;FALSE
+Toulon;Bryce HEEM ;Ailier;Trois-Quarts;18/01/1989;193;105;13;;FALSE
+Toulon;Daniel IKPEFAN;Ailier;Trois-Quarts;18/10/1993;185;92;13;;FALSE
+Toulon;Gabin VILLIÈRE;Ailier;Trois-Quarts;13/12/1995;180;87;13;;FALSE
+Toulon;Masivesi DAKUWAQA;Ailier;Trois-Quarts;14/02/1994;190;105;13;;FALSE
+Toulon;Gervais CORDIN;Arrière;Arrière;10/12/1998;172;73;13;;FALSE
+Toulon;Hugo BONNEVAL;Arrière;Arrière;19/11/1990;185;90;13;;FALSE
+Toulon;Nehe MILNER-SKUDDER;Arrière;Arrière;15/12/1990;182;90;13;;FALSE
+Toulouse;Charlie FAUMUINA;Pilier;Avant;24/12/1986;184;128;14;;FALSE
+Toulouse;Clément CASTETS;Pilier;Avant;05/05/1996;183;110;14;;FALSE
+Toulouse;Cyril BAILLE;Pilier;Avant;15/09/1993;182;116;14;;TRUE
+Toulouse;Dorian ALDEGHERI;Pilier;Avant;04/08/1993;180;119;14;;TRUE
+Toulouse;Maks VAN DYK;Pilier;Avant;21/01/1992;186;118;14;;FALSE
+Toulouse;Paulo TAFILI;Pilier;Avant;15/02/1996;183;132;14;;FALSE
+Toulouse;Rémy HUGUES;Pilier;Avant;01/01/1986;183;114;14;;FALSE
+Toulouse;Rodrigue NETI;Pilier;Avant;26/04/1995;185;124;14;;FALSE
+Toulouse;Guillaume CRAMONT;Talonneur;Avant;29/12/2000;182;97;14;;FALSE
+Toulouse;Guillaume MARCHAND;Talonneur;Avant;05/06/1998;183;100;14;;FALSE
+Toulouse;Jaco VISAGIE;Talonneur;Avant;08/07/1992;188;105;14;;FALSE
+Toulouse;Julien MARCHAND;Talonneur;Avant;10/05/1995;181;95;14;;TRUE
+Toulouse;Takeshi HINO;Talonneur;Avant;20/01/1990;172;100;14;;FALSE
+Toulouse;Bastien CHALUREAU;2ème ligne;2ème ligne;13/02/1992;202;121;14;;FALSE
+Toulouse;Florian VERHAEGHE;2ème ligne;2ème ligne;27/04/1997;202;108;14;;FALSE
+Toulouse;Iosefa TEKORI;2ème ligne;2ème ligne;17/12/1983;198;127;14;;TRUE
+Toulouse;Richie ARNOLD;2ème ligne;2ème ligne;01/07/1990;208;127;14;;TRUE
+Toulouse;Richie GRAY;2ème ligne;2ème ligne;24/08/1989;206;125;14;;FALSE
+Toulouse;Rory ARNOLD;2ème ligne;2ème ligne;01/07/1990;208;120;14;;FALSE
+Toulouse;Alban PLACINES;3ème ligne;3ème ligne;23/04/1993;189;110;14;;FALSE
+Toulouse;Antoine MIQUEL;3ème ligne;3ème ligne;20/06/1994;192;109;14;;FALSE
+Toulouse;Carl AXTENS;3ème ligne;3ème ligne;26/08/1991;193;117;14;;FALSE
+Toulouse;François CROS;3ème ligne;3ème ligne;25/03/1994;190;95;14;;TRUE
+Toulouse;Gillian GALAN;3ème ligne;3ème ligne;07/08/1991;193;120;14;;TRUE
+Toulouse;Jerome KAINO;3ème ligne;3ème ligne;06/04/1983;196;113;14;;TRUE
+Toulouse;Louis-Benoît MADAULE;3ème ligne;3ème ligne;24/09/1988;190;104;14;;FALSE
+Toulouse;Rynhardt ELSTADT;3ème ligne;3ème ligne;20/12/1989;198;120;14;;FALSE
+Toulouse;Selevasio TOLOFUA;3ème ligne;3ème ligne;31/05/1997;186;115;14;;FALSE
+Toulouse;Antoine DUPONT;Mêlée;Demi;15/11/1996;174;82;14;;TRUE
+Toulouse;Pierre PAGÈS;Mêlée;Demi;16/05/1990;180;78;14;;FALSE
+Toulouse;Sébastien BÉZY;Mêlée;Demi;22/11/1991;174;74;14;;FALSE
+Toulouse;Romain NTAMACK;Ouverture;Demi;01/05/1999;186;84;14;;TRUE
+Toulouse;Tristan TEDDER;Ouverture;Demi;17/04/1996;180;80;14;;FALSE
+Toulouse;Zack HOLMES;Ouverture;Demi;30/05/1990;175;90;14;;FALSE
+Toulouse;Maxime MERMOZ;Centre;Trois-Quarts;28/07/1986;181;93;14;;TRUE
+Toulouse;Pierre FOUYSSAC;Centre;Trois-Quarts;17/03/1995;190;100;14;;FALSE
+Toulouse;Pita AHKI;Centre;Trois-Quarts;24/09/1992;189;97;14;;TRUE
+Toulouse;Théo BELAN;Centre;Trois-Quarts;15/11/1992;187;94;14;;FALSE
+Toulouse;Arthur BONNEVAL;Ailier;Trois-Quarts;31/05/1995;181;82;14;;FALSE
+Toulouse;Cheslin KOLBE;Ailier;Trois-Quarts;28/10/1993;171;80;14;;TRUE
+Toulouse;Lucas TAUZIN;Ailier;Trois-Quarts;21/05/1998;187;98;14;;FALSE
+Toulouse;Sofiane GUITOUNE;Ailier;Trois-Quarts;27/03/1989;186;96;14;;FALSE
+Toulouse;Werner KOK;Ailier;Trois-Quarts;27/01/1993;177;78;14;;FALSE
+Toulouse;Yoann HUGET;Ailier;Trois-Quarts;02/06/1987;190;97;14;;TRUE
+Toulouse;Matthis LEBEL;Arrière;Arrière;25/03/1999;185;91;14;;FALSE
+Toulouse;Maxime MÉDARD;Arrière;Arrière;16/11/1986;180;85;14;;FALSE
+Toulouse;Thomas RAMOS;Arrière;Arrière;23/07/1995;178;86;14;;TRUE

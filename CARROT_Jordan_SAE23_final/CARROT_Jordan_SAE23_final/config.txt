@@ -1,0 +1,26 @@
+[global]
+server.socket_host: '127.0.0.1'
+server.socket_port: 8092
+
+[Databases]
+driver: "MySQL"
+host: "localhost"
+db : "rugby"
+user : "admin"
+passwd : "admin"
+port: 3306
+
+[/]
+tools.staticdir.root : os.path.abspath(os.getcwd())
+
+[/favicon.ico]
+tools.staticfile.on: True
+tools.staticfile.filename: os.path.join(os.path.abspath(os.getcwd()),'favicon.ico')
+
+[/static]
+tools.staticdir.on : True        
+tools.staticdir.dir : './static'
+
+[/images]
+tools.staticdir.on : True  
+tools.staticdir.dir : './static/images'
